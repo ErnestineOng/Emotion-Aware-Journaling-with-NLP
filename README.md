@@ -45,3 +45,6 @@ The project aims to make journaling more interactive by helping users recognize 
 * Pandas
 * NumPy
 * Machine Learning / Deep Learning
+
+
+https://drive.google.com/drive/folders/1PwisOjLJ5oVJwSNGXUyjq-irsyKJav5g 
