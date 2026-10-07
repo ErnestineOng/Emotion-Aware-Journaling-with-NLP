@@ -6,7 +6,7 @@ Heart2Heart is a web-based journaling prototype that uses **Natural Language Pro
 
 ---
 
-## 🔧 Features
+##  Features
 
 * **Emotion and sentiment analysis** using BERT.
 * **Text highlighting** to identify positive and negative emotional words.
@@ -17,7 +17,7 @@ Heart2Heart is a web-based journaling prototype that uses **Natural Language Pro
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 * **Dataset:** 20,000 emotion-related text samples from Kaggle.
 * **Preprocessing** of text data before model training.
@@ -36,7 +36,7 @@ The project aims to make journaling more interactive by helping users recognize 
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * Python
 * Natural Language Processing (NLP)
